@@ -1,0 +1,12 @@
+{
+ "name": "3Afintech Token",
+ "website": "https://3afintech.cn",
+ "description": "A leading multi-chain wallet that supports
+3A provides a basic layer that can run smoothly for defi applications, and provides high-quality financial services for ordinary investors around the world. Its goal is to lower the entry threshold for ordinary investors and form a low gas fee layer to simplify the user experience. At the same time, it provides a wide range of development tools from identity based scripting function to built-in cross chain interoperability. 3A will open trading on justswap in the near future, which will set off a monetary revolution in the field of defi finance..",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "TRC20",
+ "symbol": "3A",
+ "decimals": 18,
+ "status": "active",
+ "id": "TGQDy167RD1E37apYrankP8kWGuzkhfwXN"
+}
